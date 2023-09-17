@@ -6,7 +6,9 @@ Welcome to my 30 Days of Code repository! In this repository, I will be sharing 
 #Introduction 📚
 Data structures and algorithms are fundamental concepts in computer science and programming. This project is aimed at helping me build a strong foundation in these topics by dedicating focused time every day for a month.
 
-#Daily Progress 📈
+#Daily progress ✨
+
+
 You can find my daily progress in the LeetCode directory on [my LinkedIn profile](https://www.linkedin.com/in/kamalsharma29) Each day, I will be adding a new folder with the date as its name, and inside each folder, you will find:
 
 Code implementations
